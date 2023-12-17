@@ -1,0 +1,104 @@
+{
+    "items": [
+        {
+            "Item": "Szmaragdowy brelok",
+            "value": 16,
+            "weight": 8
+        },
+        {
+            "Item": "Zloty Wisiorek",
+            "value": 15,
+            "weight": 20
+        },
+        {
+            "Item": "Jadeitowy Kolczyk",
+            "value": 6,
+            "weight": 16
+        },
+        {
+            "Item": "Diamentowy Naszyjnik",
+            "value": 9,
+            "weight": 10
+        },
+        {
+            "Item": "Szafirowy Pierscionek",
+            "value": 7,
+            "weight": 6
+        },
+        {
+            "Item": "Szmaragdowy Kolczyk",
+            "value": 4,
+            "weight": 7
+        },
+        {
+            "Item": "Jadeitowy Zegarek",
+            "value": 14,
+            "weight": 8
+        },
+        {
+            "Item": "Szmaragdowy brelok",
+            "value": 4,
+            "weight": 2
+        },
+        {
+            "Item": "Diamentowy Wisiorek",
+            "value": 3,
+            "weight": 15
+        },
+        {
+            "Item": "Srebrny Zegarek",
+            "value": 10,
+            "weight": 3
+        },
+        {
+            "Item": "Srebrny brelok",
+            "value": 9,
+            "weight": 14
+        },
+        {
+            "Item": "Zloty Wisiorek",
+            "value": 13,
+            "weight": 7
+        },
+        {
+            "Item": "Jadeitowy Kolczyk",
+            "value": 14,
+            "weight": 3
+        },
+        {
+            "Item": "Jadeitowy brelok",
+            "value": 12,
+            "weight": 1
+        },
+        {
+            "Item": "Jadeitowy Lancuszek",
+            "value": 10,
+            "weight": 4
+        },
+        {
+            "Item": "Bursztynowy Wisiorek",
+            "value": 3,
+            "weight": 17
+        },
+        {
+            "Item": "Zloty Zegarek",
+            "value": 11,
+            "weight": 11
+        },
+        {
+            "Item": "Onyksowy Pierscionek",
+            "value": 10,
+            "weight": 5
+        },
+        {
+            "Item": "Szafirowy Zegarek",
+            "value": 3,
+            "weight": 7
+        },
+        {
+            "Item": "Szmaragdowy Zegarek",
+            "value": 8,
+            "weight": 19
+        }
+    ]
+}
